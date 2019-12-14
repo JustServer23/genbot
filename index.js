@@ -3,7 +3,7 @@ const { Client, RichEmbed } = require('discord.js');
 const client = new Discord.Client();
 var prefix = "!";
 
-client.login(process.env.TOKEN)
+client.login("NjU0MzI3MTM2NTgwMTQxMDg3.XfD7wg.EB_pyyiytaXj2bJVZfnIy-sdKXM");
 
 client.on("ready", () => {
   client.user.setPresence({ game: { name: '!help '}});
