@@ -1,0 +1,14 @@
+{
+  "name": "GeneratorBOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "script": {
+    "test": "echo \"Error: no test specified\" &&exit 1"
+},
+  "author": "Me",	
+  "liscense": "ISC",
+  "dependencies": {
+  	"discord.js": "^^11.5.0"
+  }
+}
